@@ -7,7 +7,7 @@ The project reflects **real SOC workflows**, including deployment, integration, 
 
 📄 **Detailed Documentation**
 - **Technical Report (PDF):** [Wazuh With VirusTotal Integration](./Wazuh%20With%20VirusTotal.pdf)
-- **Commands & Execution Guide:** [Commands.md](./https://github.com/MSafwanAwan/VirusTotal-integration-with-Wazuh/blob/main/Commands.md)
+- **Commands & Execution Guide:** ([Commands.md](https://github.com/MSafwanAwan/VirusTotal-integration-with-Wazuh/blob/main/Commands.md))
 
 ---
 
