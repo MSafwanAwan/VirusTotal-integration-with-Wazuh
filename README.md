@@ -6,7 +6,7 @@ This repository documents a hands-on SOC project implementing **Wazuh SIEM integ
 The project reflects **real SOC workflows**, including deployment, integration, testing, alert validation, and incident response.
 
 📄 **Detailed Documentation**
-- **Technical Report (PDF):** [Wazuh With VirusTotal Integration](./Wazuh%20With%20VirusTotal.pdf)
+- **Technical Report :** ([Wazuh With VirusTotal Integration](./https://github.com/MSafwanAwan/VirusTotal-integration-with-Wazuh/blob/main/Wazuh%20With%20VirusTotal.docx))
 - **Commands & Execution Guide:** ([Commands.md](https://github.com/MSafwanAwan/VirusTotal-integration-with-Wazuh/blob/main/Commands.md))
 
 ---
