@@ -9,7 +9,6 @@ The project reflects **real SOC workflows**, including deployment, integration, 
 - **Technical Report :** ([Wazuh With VirusTotal Integration](./https://github.com/MSafwanAwan/VirusTotal-integration-with-Wazuh/blob/main/Wazuh%20With%20VirusTotal.docx))
 - **Commands & Execution Guide:** ([Commands.md](https://github.com/MSafwanAwan/VirusTotal-integration-with-Wazuh/blob/main/Commands.md))
 
----
 
 ## 🎯 Project Objectives
 - Deploy and validate Wazuh Manager and Agent
@@ -61,8 +60,5 @@ The following scenarios were executed to validate detection accuracy:
 5. SOC investigation and classification  
 6. Alert closure or escalation  
 
----
-
-## 📁 Repository Structure
 
 
